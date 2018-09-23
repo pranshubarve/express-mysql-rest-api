@@ -1,0 +1,26 @@
+{
+  "name": "express-mysql-rest-api",
+  "version": "1.0.0",
+  "description": "Project for REST API in Nodejs with express mysql.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pranshu Barve <pranshubarve@gmail.com>",
+  "license": "ISC",
+  "keywords": [
+    "Express",
+    "Rest",
+    "API",
+    "Mysql",
+    "nodejs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranshubarve/express-mysql-rest-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pranshubarve/express-mysql-rest-api/issues"
+  },
+  "homepage": "https://github.com/pranshubarve/express-mysql-rest-api#readme"
+}
